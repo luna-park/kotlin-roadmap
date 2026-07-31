@@ -305,6 +305,7 @@ Column(modifier = Modifier.padding(8.dp)) {   // лямбда — второй �
 Если незнакомое слово не нашлось здесь:
 
 - [Kotlin: Basic syntax](https://kotlinlang.org/docs/basic-syntax.html) — сжатый обзор языка
+- [Kotlin: Обзор основного синтаксиса](https://kotlinlang.ru/docs/basic-syntax.html) — то же самое на русском
 - [Kotlin: Keywords and operators](https://kotlinlang.org/docs/keyword-reference.html) — полный список ключевых слов
 - [Coroutines guide](https://kotlinlang.org/docs/coroutines-guide.html)
 - [Compose: Glossary](https://developer.android.com/develop/ui/compose/glossary)
